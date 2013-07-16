@@ -3,7 +3,6 @@
 <GUIDE title="Vinova Objective-C Style Guide">
 
 <p align="right">
-
 Revision 1.0
 </p>
 
@@ -1960,14 +1959,13 @@ Revision 1.0
 <HR/>
 
 <p align="right">
-Revision 2.56
+Revision 1.0
 </p>
 
 
 
 <address>
-Mike Pinkerton <br/>
-Greg Miller <br/>
-Dave MacLachlan <br/>
+  Ethan Nguyen<br/>
+  Based on Google Objective-C Style Guide
 </address>
 </GUIDE>
